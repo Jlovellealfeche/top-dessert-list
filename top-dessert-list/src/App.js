@@ -1,5 +1,5 @@
 import "./App.css";
-import DessertsList from "../top-dessert-list/src/DessertsList";
+import DessertsList from "./DessertsList";
 
 const desserts = [
   {
